@@ -862,18 +862,18 @@ h2 {
 
   .contacts-content__title {
     margin-bottom: 15px;
-    font-size: 24px;
+    font-size: 20px;
   }
 
   .contacts-content__description {
     margin-bottom: 15px;
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .contacts-content__email,
   .contacts-content__tel {
     margin-bottom: 15px;
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
