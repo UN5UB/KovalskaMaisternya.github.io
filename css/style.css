@@ -455,6 +455,7 @@ main {
   padding-bottom: 25px;
   padding-top: 20px;
   border-radius: 5px;
+  border: 1px solid transparent;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
